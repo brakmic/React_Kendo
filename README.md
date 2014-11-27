@@ -16,7 +16,7 @@ Or adjust the Bundles in *App_Start/BundleConfig.js*
 
 Currently this app is very simple and actually I shouldn't call it an "app". It's just a very basic ReactJS component based on the KendoUI Grid widget.
 
-Regarding KendoUI + ReactJS I recommend to check out the excellent <a href="https://github.com/wingspan/wingspan-forms" target="_blank">Wingspan Forms</a>
+For better examples regarding KendoUI in combination with ReactJS I recommend to check out the excellent <a href="https://github.com/wingspan/wingspan-forms" target="_blank">Wingspan Forms</a>
 
 **License**
 
