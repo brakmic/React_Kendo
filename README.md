@@ -1,6 +1,6 @@
 **React & KendoUI**
 
-This is a demo webapp that combines ReactJS, Kendo UI, & ASP.NET.
+This is a demo webapp that combines ReactJS, Kendo UI & ASP.NET.
 
 * ReactJS:  <a href="http://facebook.github.io/react/">ReactJS</a>
 * Kendo UI: <a href="http://www.telerik.com/kendo-ui1" target="_blank">Telerik Homepage</a>
