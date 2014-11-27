@@ -10,7 +10,8 @@
             },
             //catch the real DOM element and turn it into a Kendo Grid
             componentDidMount: function(){
-                //This object will be served from the above function "getDefaultProps".
+                var props = this.props;
+                //This object (props) will be served from the above function "getDefaultProps".
                 //This function is called by React itself during initialization of the component.
                 //
                 //Basically we're doing three things:
@@ -22,7 +23,7 @@
                 //The "props" object can be anything but in this case we have to adhere to KendoUI
                 //rules because the Grid widget expects a certain structure.
                 //More info on Grid & its settings here: http://demos.telerik.com/kendo-ui/grid
-                var props = this.props;
+
                 $(this.getDOMNode()).kendoGrid(props);
             },
             //everything is just a DIV
