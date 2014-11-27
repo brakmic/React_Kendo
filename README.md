@@ -16,9 +16,12 @@ Or adjust the Bundles in *App_Start/BundleConfig.js*
 
 <img src="http://l77.imgup.net/reacteb92.png" />
 
-Currently this app is very simple and actually I shouldn't call it an "app". It's just a very basic ReactJS component based on the KendoUI Grid widget.
+Currently this app is very simple. Actually I shouldn't call it an "app". ;) 
 
-For better examples regarding KendoUI in combination with ReactJS I recommend to check out the excellent <a href="https://github.com/wingspan/wingspan-forms" target="_blank">Wingspan Forms</a>
+It's just a very basic ReactJS component based on the KendoUI Grid widget. There is no real logic in there, for example handling of Kendo-events via
+the synthetic ReactJS-events etc.
+
+For better examples regarding KendoUI in combination with ReactJS I recommend to check out the excellent <a href="https://github.com/wingspan/wingspan-forms" target="_blank">Wingspan Forms</a> library.
 
 **License**
 
