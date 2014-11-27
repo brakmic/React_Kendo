@@ -16,8 +16,8 @@
                 }
             },
             pageSize: 10,
-            serverPaging: true,
-            serverSorting: true,
+            serverPaging: false,
+            serverSorting: false,
             schema: {
                 model: { //this will be the model for the grid
                     id: 'id',

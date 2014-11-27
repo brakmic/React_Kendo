@@ -14,6 +14,8 @@ But there's a 30 day trial available: <a href="http://www.telerik.com/download/k
 The Kendo-Scripts should go into *Scripts/kendo* directory and CSS-files into *Content/kendo*.
 Or adjust the Bundles in *App_Start/BundleConfig.js*
 
+<img src="http://l77.imgup.net/reacteb92.png" />
+
 Currently this app is very simple and actually I shouldn't call it an "app". It's just a very basic ReactJS component based on the KendoUI Grid widget.
 
 For better examples regarding KendoUI in combination with ReactJS I recommend to check out the excellent <a href="https://github.com/wingspan/wingspan-forms" target="_blank">Wingspan Forms</a>
