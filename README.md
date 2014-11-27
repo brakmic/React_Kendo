@@ -4,7 +4,6 @@ This is a demo webapp that combines ReactJS, Kendo UI, & ASP.NET.
 
 * ReactJS:  <a href="http://facebook.github.io/react/">ReactJS</a>
 * Kendo UI: <a href="http://www.telerik.com/kendo-ui1" target="_blank">Telerik Homepage</a>
-* Firebase: <a href="https://www.firebase.com" target="_blank">Firebase</a>
 * Northwind Service: <a href="http://services.odata.org/Northwind/Northwind.svc/?$format=json" target="_blank">Service JSON</a>
 
 Please note that Kendo Grid belongs to the "Professional" version of Kendo UI and therefore needs a proper license to be used.
