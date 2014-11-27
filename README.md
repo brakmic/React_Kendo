@@ -16,10 +16,12 @@ Or adjust the Bundles in *App_Start/BundleConfig.js*
 
 <img src="http://l77.imgup.net/reacteb92.png" />
 
-Currently this app is very simple. Actually I shouldn't call it an "app". ;) 
+Currently, this app is very simple. Actually I shouldn't call it an "app". ;) 
 
-It's just a very basic ReactJS component based on the KendoUI Grid widget. There is no real logic in there, for example handling of Kendo-events via
-the synthetic ReactJS-events etc.
+It's just a very basic ReactJS component based on the KendoUI Grid widget. There is no real logic in there, for example handling of Widget-events via
+the synthetic ReactJS-events, no checks via <a href="http://facebook.github.io/react/docs/component-specs.html#updating-shouldcomponentupdate" target="_blank">shouldComponentUpdate</a>, no handling of <a href="http://facebook.github.io/react/docs/component-specs.html#updating-componentwillreceiveprops">componentWillReceiveProps</a> etc.
+
+It's just the beginning and I'll try to update this "app" soon.
 
 For better examples regarding KendoUI in combination with ReactJS I recommend to check out the excellent <a href="https://github.com/wingspan/wingspan-forms" target="_blank">Wingspan Forms</a> library.
 
