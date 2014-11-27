@@ -15,7 +15,7 @@
                     dataType: 'json'
                 }
             },
-            pageSize: 5,
+            pageSize: 10,
             serverPaging: true,
             serverSorting: true,
             schema: {
@@ -60,11 +60,6 @@
         selectable: true,
         scrollable: true,
         filterable: true,
-        //change: onChange,
-        //a template for order details
-        //this will get called after we open the detail page (and only once per customer)
-        //detailTemplate: kendo.template($(".mithril-template").html()),
-        //detailInit: detailInit, //here we do extra processing of the template for each customer
         editable: {
             confirmation: function (e) {
                 return 'Do you really want to delete the customer?';
