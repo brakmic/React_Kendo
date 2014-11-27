@@ -26,6 +26,11 @@
 
                 $(this.getDOMNode()).kendoGrid(props);
             },
+            //remove the Grid and release all resources
+            componentWillUnmount: function () {
+                 $(this.getDOMNode()).data('kendoGrid').destroy();
+            },
+
             //everything is just a DIV
             render: function(){
                 return (
