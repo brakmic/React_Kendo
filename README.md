@@ -16,7 +16,7 @@ Or adjust the Bundles in *App_Start/BundleConfig.js*
 
 <img src="http://l77.imgup.net/reacteb92.png" />
 
-Currently, this app is very simple. Actually I shouldn't call it an "app". ;) 
+This app is very simple. Actually, I shouldn't even call it an "app". ;) 
 
 It's just a very basic ReactJS component based on the KendoUI Grid widget. There is no real logic in there, for example handling of Widget-events via
 the <a href="http://facebook.github.io/react/docs/events.html" target="_blank">synthetic ReactJS events</a>, no checks via <a href="http://facebook.github.io/react/docs/component-specs.html#updating-shouldcomponentupdate" target="_blank">shouldComponentUpdate</a>, no handling of <a href="http://facebook.github.io/react/docs/component-specs.html#updating-componentwillreceiveprops">componentWillReceiveProps</a> etc.
