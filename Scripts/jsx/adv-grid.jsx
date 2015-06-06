@@ -18,7 +18,7 @@
                 //
                 //a) get default properties via "getDefaultProps"
                 //b) get the newly created DOM node via "getDOMNode"
-                //c) initialize Kendo Grind on this node and feed it with default props
+                //c) initialize Kendo Grid on this node and feed it with default props
                 //
                 //The "props" object can be anything but in this case we have to adhere to KendoUI
                 //rules because the Grid widget expects a certain structure.
